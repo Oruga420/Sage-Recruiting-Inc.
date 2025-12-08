@@ -31,7 +31,7 @@ const roles = [
     company: 'Assent',
     dates: 'Feb 2025 - Present',
     points: [
-      'Spearheaded the architecture of a secure GenAI stack for a regulated compliance platform using Python, GCP, AWS, and models like OpenAI and Anthropic.',
+      'Spearheaded the architecture of a secure GenAI stack for a regulated compliance platform using Python, GCP, AWS, and SOTA LLMs from OpenAI and Anthropic.',
       'Developed Agentic Workflows and custom MCP servers that automate complex multi-step processes, achieving over 20,000 man-hours in savings within one year.',
       'Drove internal AI adoption from 47% to 97% by building tools that integrate seamlessly into existing workflows (Salesforce, Zapier).',
       'Implemented live RAG connections to compliance data, ensuring auditability and safety in high-stakes environments.',

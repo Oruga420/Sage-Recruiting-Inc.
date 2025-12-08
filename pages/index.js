@@ -4,7 +4,7 @@ import { Fredoka } from 'next/font/google';
 const fredoka = Fredoka({ subsets: ['latin'], weight: ['400', '500', '600', '700'] });
 
 const summaryText =
-  'AI Solutions Architect with a strong background in Python, Cloud Infrastructure (GCP, AWS, Vercel), and Agentic Workflows. Experienced in taking complex GenAI products from concept to production in regulated environments, having architected over 120 GenAI applications and 90+ chatbots. Hands-on across SOTA models from OpenAI, Anthropic, and Google Gemini plus open-source stacks like Klin, DeepSeek, and Meta—regularly testing broad model sets while returning to the three main labs for production. Proven track record of driving AI adoption from 47% to 97% and saving over $1M USD and 20,000 man-hours through automation and RAG-based systems. Passionate about mentoring developers and translating ambiguity into technical direction.';
+  'AI Solutions Architect with a strong background in Python, Cloud Infrastructure (GCP, AWS, Vercel), and Agentic Workflows. Experienced in taking complex GenAI products from concept to production in regulated environments, having architected over 120 GenAI applications and 90+ chatbots. Hands-on across SOTA models from OpenAI, Anthropic, and Google Gemini plus open-source stacks like Klin, DeepSeek, and Meta, regularly testing broad model sets while returning to the three main labs for production. Proven track record of driving AI adoption from 47% to 97% and saving over $1M USD and 20,000 man-hours through automation and RAG-based systems. Passionate about mentoring developers and translating ambiguity into technical direction.';
 
 const expertise = [
   'Python',

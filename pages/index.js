@@ -4,7 +4,7 @@ import { Fredoka } from 'next/font/google';
 const fredoka = Fredoka({ subsets: ['latin'], weight: ['400', '500', '600', '700'] });
 
 const summaryText =
-  'AI Solutions Architect with a strong background in Python, Cloud Infrastructure (GCP, AWS, Vercel), and Agentic Workflows. Experienced in taking complex GenAI products from concept to production in regulated environments, having architected over 120 GenAI applications and 90+ chatbots. Hands-on across SOTA models from OpenAI, Anthropic, and Google Gemini plus open-source stacks like Klin, DeepSeek, and Meta—regularly testing broad model sets while returning to the three main labs for production. Proven track record of driving AI adoption from 47% to 97% and saving over $1M USD and 20,000 man-hours through automation and RAG-based systems. Passionate about mentoring developers and translating ambiguity into technical direction.';
+  'AI Solutions Architect with a strong background in Python, Cloud Infrastructure (GCP, AWS, Vercel), and Agentic Workflows. Experienced in taking complex GenAI products from concept to production in regulated environments, having architected over 120 GenAI applications and 90+ chatbots. Hands-on across SOTA models from OpenAI, Anthropic, and Google Gemini plus open-source stacks like Klin, DeepSeek, and Meta, regularly testing broad model sets while returning to the three main labs for production. Proven track record of driving AI adoption from 47% to 97% and saving over $1M USD and 20,000 man-hours through automation and RAG-based systems. Passionate about mentoring developers and translating ambiguity into technical direction.';
 
 const expertise = [
   'Python',
@@ -31,7 +31,7 @@ const roles = [
     company: 'Assent',
     dates: 'Feb 2025 - Present',
     points: [
-      'Spearheaded the architecture of a secure GenAI stack for a regulated compliance platform using Python, GCP, AWS, and models like OpenAI and Anthropic.',
+      'Spearheaded the architecture of a secure GenAI stack for a regulated compliance platform using Python, GCP, AWS, and SOTA LLMs from OpenAI and Anthropic.',
       'Developed Agentic Workflows and custom MCP servers that automate complex multi-step processes, achieving over 20,000 man-hours in savings within one year.',
       'Drove internal AI adoption from 47% to 97% by building tools that integrate seamlessly into existing workflows (Salesforce, Zapier).',
       'Implemented live RAG connections to compliance data, ensuring auditability and safety in high-stakes environments.',
